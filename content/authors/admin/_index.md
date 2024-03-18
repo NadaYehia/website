@@ -20,9 +20,6 @@ role: Postdoctoral scientist in computational neuroscience
 organizations:
   - name:Janelia HHMI
      url: https://www.janelia.org/lab/dudman-lab
-  - name: University of Sheffield
-     url: https://www.sheffield.ac.uk/
-
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
