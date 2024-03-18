@@ -18,7 +18,7 @@ role: Postdoctoral scientist in computational neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Janelia HHMI
+  - name:Janelia HHMI
      url: https://www.janelia.org/lab/dudman-lab
   - name: University of Sheffield
      url: https://www.sheffield.ac.uk/
