@@ -18,7 +18,7 @@ role: Postdoctoral scientist in computational neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:Janelia HHMI
+     name:Janelia HHMI
      url: https://www.janelia.org/lab/dudman-lab
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
