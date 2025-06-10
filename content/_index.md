@@ -24,7 +24,7 @@ sections:
       buttons:
         - text: Read my latest paper
           icon: academicons/arxiv
-          url: https://scholar.google.com/citations?user=tYXAtLMAAAAJ&hl=en
+          url:  https://scholar.google.com/citations?user=tYXAtLMAAAAJ&hl=en
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: [https://linkedin.com](https://www.linkedin.com/in/nada-abdelrahman-10317a8b/)
